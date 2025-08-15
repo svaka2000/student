@@ -37,6 +37,10 @@ Hi! My name is [Your Full Name].
     Markdown guide
 </a>
 
+<a href="m2.material.io/go/design-buttons" class="button small" style="background-color: #6b4bd3ff">
+    Button guide
+</a>
+
 <a href="https://vscode.dev/" class="button small" style="background-color: #d38a4bff">
     <span style="color: #FFFFFF">VSCODE</span>
 </a>
