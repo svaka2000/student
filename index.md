@@ -20,10 +20,11 @@ Hi! My name is [Your Full Name].
 
 ### Development Environment
 
+# Made by Samarth Vaka
 > Coding starts with tools, explore these tools and procedures with a click.
 
 <a href="https://github.com/Open-Coding-Society/student">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shield s.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://open-coding-society.github.io/student">
     <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white" alt="GitHub Pages">
@@ -31,6 +32,11 @@ Hi! My name is [Your Full Name].
 <a href="https://kasm.opencodingsociety.com/" class="button small" style="background-color: #6b4bd3ff">
     KASM
 </a>
+
+<a href="https://www.markdownguide.org/cheat-sheet" class="button small" style="background-color: #6b4bd3ff">
+    Markdown guide
+</a>
+
 <a href="https://vscode.dev/" class="button small" style="background-color: #d38a4bff">
     <span style="color: #FFFFFF">VSCODE</span>
 </a>
