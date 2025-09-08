@@ -71,7 +71,7 @@ permalink: /background
         this.frame = 0;
       }
       update() {
-        this.y = this.baseY + Math.sin(this.frame * 0.05) * 20;
+        this.y = this.baseY + Math.sin(this.frame * 0.2) * 50;
         this.frame++;
       }
     }
